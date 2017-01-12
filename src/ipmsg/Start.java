@@ -450,7 +450,7 @@ private void jMenuItem6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FI
     UtilityGui.showNotice(this,"兼容飞鸽的LanMsg"+GlobalVar.NEW_LINE+
             "兼容GB2312和UTF8编码"+GlobalVar.NEW_LINE+
             "兼容Windows和Linux平台"+GlobalVar.NEW_LINE+
-            "刘盛章（liusz@milltip.com)"+GlobalVar.NEW_LINE+
+            "刘盛章（liusz@liusz.com)"+GlobalVar.NEW_LINE+
             "为您服务!"
             );
 }//GEN-LAST:event_jMenuItem6ActionPerformed
