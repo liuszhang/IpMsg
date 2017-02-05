@@ -31,6 +31,7 @@ import java.io.UnsupportedEncodingException;
 /**
  *
  * @author  Noeru
+ * @checkby  liusz
  */
 public class Start extends javax.swing.JFrame implements 
         InterfaceFreshUsers_Start{
